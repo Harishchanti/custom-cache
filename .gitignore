@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -21,3 +22,47 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+######################
+# Project Specific
+######################
+/src/main/webapp/dist
+/src/main/webapp/fedex_labels/
+######################
+# Node
+######################
+/node/**
+/node_modules/**
+
+######################
+# SASS
+######################
+.sass-cache/**
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+/src/main/resources/rebel.xml
+
+.idea/
+# External tool builders
+.externalToolBuilders/**
+bin/**
+
+.idea
+out/*
+>>>>>>> f6f96516734f2beb4d17c1c016def066a02ec6f8
