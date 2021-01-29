@@ -1,0 +1,42 @@
+######################
+# Project Specific
+######################
+/src/main/webapp/dist
+/src/main/webapp/fedex_labels/
+######################
+# Node
+######################
+/node/**
+/node_modules/**
+
+######################
+# SASS
+######################
+.sass-cache/**
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+/src/main/resources/rebel.xml
+
+.idea/
+# External tool builders
+.externalToolBuilders/**
+bin/**
+
+.idea
+out/*
